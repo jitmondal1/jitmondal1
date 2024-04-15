@@ -1,6 +1,6 @@
 <h1 align='center'><samp><strong>Hi there 👋, I am Jit Mondal </strong></samp></h1>
 
-<h6 align='center'>Cyber Security Researcher</h6>
+<h5 align='center'>Cyber Security Researcher</h5>
 
 <p align='left'> 📫 As an individual deeply passionate about technology and personal development, I find fulfilment in crafting cybersecurity tools while nurturing a relentless thirst for knowledge. Progressing within the cybersecurity career field, I am consistently driven to utilize the latest tools and technologies to safeguard digital landscapes.</p>
 

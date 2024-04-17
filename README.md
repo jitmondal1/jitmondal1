@@ -22,4 +22,4 @@
 
 🧐 **Knowledge of:** <br>
 
-`Networking`, `VAPT`, `Network Pentest`, `Website Pentest`, `OSINT`, `CTF`, `Object-Oriented Programming`
+`Networking`, `VAPT`, `Network Pentest`, `Website Pentest`, `OSINT`, `CTF`, `SQL`
